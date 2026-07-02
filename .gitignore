@@ -147,3 +147,12 @@ __pycache__/
 *.pyc
 *.pyo
 .pytest_cache/
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# ADK runtime data
+.adk/
